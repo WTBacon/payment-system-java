@@ -1,7 +1,7 @@
 package jp.bacon.general;
 
 import jp.bacon.methods.HoldMethod;
-import jp.bacon.database.GlobalDatabase;
+import jp.bacon.db.GlobalDatabase;
 import jp.bacon.domain.Employee;
 import jp.bacon.domain.PaymentClassification;
 import jp.bacon.domain.PaymentMethod;

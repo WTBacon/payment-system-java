@@ -1,6 +1,6 @@
 package jp.bacon.general;
 
-import jp.bacon.database.GlobalDatabase;
+import jp.bacon.db.GlobalDatabase;
 import jp.bacon.transaction.Transaction;
 
 public class DeleteEmployeeTransaction implements Transaction {

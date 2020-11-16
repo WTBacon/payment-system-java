@@ -1,9 +1,9 @@
-package jp.bacon.ClassificationTransactions;
+package jp.bacon.classificationTransactions;
 
 import java.util.Calendar;
 
 import jp.bacon.classifications.HourlyClassification;
-import jp.bacon.database.GlobalDatabase;
+import jp.bacon.db.GlobalDatabase;
 import jp.bacon.domain.Employee;
 import jp.bacon.domain.PaymentClassification;
 import jp.bacon.transaction.Transaction;

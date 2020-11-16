@@ -1,4 +1,4 @@
-package jp.bacon.database;
+package jp.bacon.db;
 
 import java.util.List;
 
