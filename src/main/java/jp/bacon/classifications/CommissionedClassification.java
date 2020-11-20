@@ -8,6 +8,10 @@ import jp.bacon.domain.Paycheck;
 import jp.bacon.domain.PaymentClassification;
 import jp.bacon.util.Date;
 
+/**
+ * The employees who have this commission can get their rewards according to their achievement.
+ * To do that, this classification must have employees' sales (itsReceipts) and commission rate (itsCommission Rate).
+ */
 public class CommissionedClassification implements PaymentClassification {
 
   private final double itsSalary;
