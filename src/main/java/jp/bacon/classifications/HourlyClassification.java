@@ -9,8 +9,9 @@ import jp.bacon.domain.PaymentClassification;
 import jp.bacon.util.Date;
 
 /**
- * The employees who have this commission can get their salaries according to their work time.
- * To do that, this classification must have employees' time cards (itsTimeCards) and hourly wage (itsHourlyRate).
+ * The employees who have this commission can get their salaries according to their work time. To do
+ * that, this classification must have employees' time cards (itsTimeCards) and hourly wage
+ * (itsHourlyRate).
  */
 public class HourlyClassification implements PaymentClassification {
 
